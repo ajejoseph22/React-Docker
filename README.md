@@ -9,4 +9,4 @@ Don't believe me?
 Open up your browser and type "localhost"; hit enter and you should see your app running. 
 You also get hot reloading for both the app and the test suites :)
 
-##PS: Must have docker and docker-compose installed on your machine
+## PS: Must have docker and docker-compose installed on your machine
